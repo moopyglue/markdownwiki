@@ -1,3 +1,3 @@
 # Reg Ex (Regular Expressions)
 
-* [Learn bash in y minutes](learnxinyminutes.com)
+* [grep regular expressions with examples](https://www.cyberciti.biz/faq/grep-regular-expressions/)
