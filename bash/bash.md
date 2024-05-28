@@ -5,3 +5,5 @@
 * [Bash-hackers wiki](bash-hackers.org)
 * [Shell vars](bash-hackers.org)
 * [Bash Guide](mywiki.wooledge.org)
+
+(testing edit capability)
