@@ -1,3 +1,5 @@
 # Moopyglue Markdown Wiki
 
-Early draft
+edited with [MarkDown](https://devhints.io/markdown)
+
+* [bash](bash/bash.md)
